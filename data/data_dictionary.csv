@@ -1,0 +1,10 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+resume_id,string (object),R0001,R0002,R0003,No,resume_id — Unique identifier of each synthetic resume (R0001 to R0500).
+job_role,string (object),Data_Analyst,Data_Analyst,Software_Engineer,No,"job_role — Job role the resume was submitted for. One of 5 roles: Data_Analyst, HR_Executive, Project_Manager, QA_Engineer, Software_Engineer."
+years_exp,integer (int64),3,5,9,No,years_exp — Candidate's total years of work experience (observed range 0 to 15).
+skills_matched,integer (int64),8,6,11,No,skills_matched — Number of the job's required skills found in the resume (observed range 3 to 15).
+education_score,integer (int64),73,67,89,No,education_score — Score for the candidate's education on a 0 to 100 scale; higher means a stronger education profile (observed range 60 to 100).
+keyword_density,float (float64),0.129,0.747,0.713,No,keyword_density — Fraction of job-description keywords that appear in the resume (observed range 0.10 to 0.90).
+predicted_score,float (float64),46.1,97.7,61.1,No,predicted_score — Resume-to-job match score on a 0 to 100 scale produced by the screening model (observed range 40.1 to 100).
+shortlisted,"integer (int64), binary 0/1",0,1,1,No,"shortlisted — Target label: 1 = shortlisted, 0 = not shortlisted (about 34.6% of resumes are 1)."
+shortlisted_label,"string (object), values Y/N",N,Y,Y,No,"shortlisted_label — Y/N version of shortlisted (Y = 1, N = 0), added during cleaning; it appears in dataset_cleaned.csv only, not in the original dataset.csv."

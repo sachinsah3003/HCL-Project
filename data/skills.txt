@@ -1,0 +1,188 @@
+python
+java
+c
+c++
+c#
+go
+rust
+kotlin
+swift
+php
+ruby
+dart
+r
+scala
+matlab
+perl
+bash
+shell scripting
+sql
+nosql
+
+javascript
+typescript
+html
+css
+bootstrap
+tailwind css
+react
+next.js
+vue.js
+angular
+svelte
+redux
+jquery
+webpack
+vite
+sass
+less
+material ui
+chakra ui
+figma
+vitepress
+vercel
+netlify
+
+node.js
+express
+express.js
+nestjs
+django
+flask
+fastapi
+spring boot
+laravel
+asp.net
+.net core
+socket.io
+prisma
+typeorm
+mongoose
+
+mongodb
+mysql
+postgresql
+postgres
+sqlite
+redis
+cassandra
+oracle
+dynamodb
+elasticsearch
+neo4j
+mariadb
+supabase
+firebase
+
+git
+github
+github actions
+gitlab
+gitlab ci
+ci/cd
+cicd
+jenkins
+docker
+kubernetes
+terraform
+ansible
+nginx
+apache
+prometheus
+grafana
+serverless
+microservices
+
+aws
+azure
+gcp
+linux
+
+rest api
+rest
+restful api
+graphql
+api development
+websockets
+oauth
+jwt authentication
+jwt
+
+machine learning
+ml
+deep learning
+dl
+artificial intelligence
+ai
+generative ai
+nlp
+natural language processing
+computer vision
+cv
+reinforcement learning
+prompt engineering
+llm
+langchain
+llamaindex
+hugging face
+rag
+vector databases
+pinecone
+chroma
+faiss
+openai api
+ollama
+streamlit
+gradio
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+pytorch
+opencv
+xgboost
+lightgbm
+
+data visualization
+data analysis
+data engineering
+etl
+apache spark
+hadoop
+airflow
+kafka
+tableau
+power bi
+statistics
+time series analysis
+
+selenium
+pytest
+jest
+junit
+cypress
+postman
+unit testing
+test automation
+
+react native
+flutter
+android development
+ios development
+
+agile
+scrum
+jira
+confluence
+system design
+data structures and algorithms
+dsa
+object oriented programming
+oop
+design patterns
+web scraping
+automation

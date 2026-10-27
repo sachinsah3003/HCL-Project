@@ -1,0 +1,16 @@
+.DS_Store
+.env
+
+# Python environments and caches
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Streamlit and local tooling
+.streamlit/secrets.toml
+.vscode/
+
+# Local logs and generated artifacts
+*.log

@@ -1,0 +1,31 @@
+base,variant,delta_vs_original,score,flagged,decision,original_decision,decision_changed
+01,M-Verma,-0.3199999999999932,81.93,False,Interview,Interview,False
+03,M-Verma,-0.5799999999999983,68.37,False,Consider,Consider,False
+04,M-Verma,-0.11999999999999744,37.7,False,Low Match,Low Match,False
+06,M-Verma,-1.3400000000000034,33.43,False,Low Match,Low Match,False
+07,M-Verma,-0.3400000000000034,60.75,False,Consider,Consider,False
+01,F-Verma,-0.980000000000004,81.27,False,Interview,Interview,False
+03,F-Verma,-0.9500000000000028,68.0,False,Consider,Consider,False
+04,F-Verma,-0.9799999999999969,36.84,False,Low Match,Low Match,False
+06,F-Verma,-0.8900000000000006,33.88,False,Low Match,Low Match,False
+07,F-Verma,-0.5100000000000051,60.58,False,Consider,Consider,False
+01,M-Khan,-0.09000000000000341,82.16,False,Interview,Interview,False
+03,M-Khan,0.10999999999999943,69.06,False,Consider,Consider,False
+04,M-Khan,0.6700000000000017,38.49,False,Low Match,Low Match,False
+06,M-Khan,0.5,35.27,False,Low Match,Low Match,False
+07,M-Khan,0.6799999999999997,61.77,False,Consider,Consider,False
+01,F-Khan,-0.4899999999999949,81.76,False,Interview,Interview,False
+03,F-Khan,-0.07000000000000739,68.88,False,Consider,Consider,False
+04,F-Khan,-0.1700000000000017,37.65,False,Low Match,Low Match,False
+06,F-Khan,0.5599999999999952,35.33,False,Low Match,Low Match,False
+07,F-Khan,0.8899999999999935,61.98,False,Consider,Consider,False
+01,age-22,0.46999999999999886,82.72,False,Interview,Interview,False
+03,age-22,-0.1700000000000017,68.78,False,Consider,Consider,False
+04,age-22,0.4799999999999969,38.3,False,Low Match,Low Match,False
+06,age-22,-0.8000000000000043,33.97,False,Low Match,Low Match,False
+07,age-22,0.45999999999999375,61.55,False,Consider,Consider,False
+01,age-38,0.37999999999999545,82.63,False,Interview,Interview,False
+03,age-38,-0.21999999999999886,68.73,False,Consider,Consider,False
+04,age-38,0.2700000000000031,38.09,False,Low Match,Low Match,False
+06,age-38,-0.6900000000000048,34.08,False,Low Match,Low Match,False
+07,age-38,0.45999999999999375,61.55,False,Consider,Consider,False

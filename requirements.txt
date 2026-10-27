@@ -1,0 +1,11 @@
+nltk==3.9.2
+pandas==2.3.3
+pdfplumber==0.11.8
+reportlab<5
+scikit-learn==1.6.1
+streamlit==1.50.0
+pydantic>=2,<3
+sentence-transformers
+google-genai
+pytest
+python-dotenv
